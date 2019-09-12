@@ -1,7 +1,5 @@
 # LandaryMangementSystem
-LandaryMangemetSystem build using Node.JS, HTML, CSS, SMS API
-Amrita-Laundry-Management-System.
-Hi! This is a NodeJS, HTML, CSS, MongoBD based project for students laundry management. this is a WEB based project using MongoDB as database.
+Hi! This is a NodeJS, HTML, CSS, MongoBD based project for students laundry management System. this is a WEB based project using MongoDB as database.
 
 Setting up environment:
 To run this project your system should have npm and NodeJS installed. To install NodeJS and npm visit [http://nodejs.org] Once NodeJS is installed Please check the version to confirm installation. For Confirmation type the following commands in your CMD or Terminal.
@@ -16,7 +14,7 @@ Twillo
 Express
 MongoDB
 MongoJS
-Short id for installing the pakages type hte following commands:
+Short id for installing the pakages type the following commands:
 npm install express npm install mongodb npm install mongojs npm install shortid install Twillo
 
 For confirmation type the command and check the o/p for the above packages:
